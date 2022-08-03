@@ -1,5 +1,5 @@
-# Imortant-Resources-Links
+## Imortant-Resources-Links
 
-## Coding
+### Coding
 
-https://newsletterest.com/message/34754/Daily-Coding-Problem-Solutions-to-Previous-Problems
+- https://newsletterest.com/message/34754/Daily-Coding-Problem-Solutions-to-Previous-Problems
